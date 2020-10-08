@@ -38,11 +38,12 @@
 
 .Nav-Link {
   margin: auto;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: larger;
   text-decoration: none;
   color: whitesmoke;
-  /* TODO: Remove the underline, use a bigger font, make current page bold*/
+  /* TODO: Make these centered on the navbar, slightly larger, current page bold*/
 }
 
 .Nav-Link:visited {

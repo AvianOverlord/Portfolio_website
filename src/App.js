@@ -26,7 +26,7 @@ function App() {
             <Route exact path ="/games" component = {Games}/>
             <Route exact path ="/contact" component = {Contact}/>
             <Route exact path ="/news" component = {News}/>
-          </div>
+          </div>  
         </Router>
     </div>
   );

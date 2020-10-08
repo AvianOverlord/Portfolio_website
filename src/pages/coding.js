@@ -9,4 +9,4 @@ function Coding()
     )
 }
 
-export default News;
+export default Coding;

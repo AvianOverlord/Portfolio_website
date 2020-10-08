@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +26,27 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.App-body{
+}
+
+.Navbar {
+  background-color: gray;
+  min-height: 8vh;
+}
+
+.Nav-Link {
+  margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: whitesmoke;
+  /* TODO: Remove the underline, use a bigger font, make current page bold*/
+}
+
+.Nav-Link:visited {
+  color: whitesmoke;
 }
 
 @keyframes App-logo-spin {

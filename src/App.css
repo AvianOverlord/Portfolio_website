@@ -34,16 +34,20 @@
 .Navbar {
   background-color: gray;
   min-height: 8vh;
+  position: relative;
 }
 
 .Nav-Link {
-  margin: auto;
   margin-left: 20px;
   margin-right: 20px;
-  font-size: larger;
+  font-size: x-large;
   text-decoration: none;
   color: whitesmoke;
-  /* TODO: Make these centered on the navbar, slightly larger, current page bold*/
+  line-height: 60px;
+}
+
+.Current-Page{
+  font-weight: bold;
 }
 
 .Nav-Link:visited {

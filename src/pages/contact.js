@@ -4,7 +4,7 @@ function Contact()
 {
     return(
         <div>
-            <h1>Contact Information</h1>
+            <h2>Contact Information</h2>
             <ul>
                 <li>Phone: 240-994-5485</li>
                 <li>Email: wrave[at]gwu.edu</li>

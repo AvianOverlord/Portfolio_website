@@ -4,7 +4,7 @@ function Writing()
 {
     return(
         <div>
-            <h1>Writing and Editing</h1>
+            <h2>Writing and Editing</h2>
         </div>
     )
 }

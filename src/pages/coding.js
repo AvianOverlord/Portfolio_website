@@ -4,7 +4,7 @@ function Coding()
 {
     return(
         <div>
-            <h1>Coded Websites</h1>
+            <h2>Coded Websites</h2>
         </div>
     )
 }

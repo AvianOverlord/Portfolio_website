@@ -4,7 +4,7 @@ function Games()
 {
     return(
         <div>
-            <h1>Game Page</h1>
+            <h2>Game Page</h2>
         </div>
     )
 }

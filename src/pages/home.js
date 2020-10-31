@@ -1,4 +1,5 @@
 import React from "react";
+import Profile from "../assets/profile.JPG";
 
 function Home()
 {
@@ -12,7 +13,7 @@ function Home()
                         Washington University, and a certificate in full-stack web development from same.</p>
                 </div>
                 <div className="col-6">
-                    <img src="" alt="A picture of me"/>
+                    <img src= {Profile} alt="A picture of me"/>
                 </div>
             </div>
         </div>
